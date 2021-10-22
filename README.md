@@ -1,2 +1,2 @@
 # golang-program-tr
-For learning
+For learning Golang
